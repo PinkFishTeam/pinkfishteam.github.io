@@ -130,4 +130,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-_site
+.bundle
+vendor
+
+# LaTeX stuff
+*.out
+*.bak
+*.swp
+*.log
+*/test*
+*.blg
+*.aux
+*.synctex.gz
+
+
+Gemfile*
+_plugins/
+_site/
