@@ -4,7 +4,7 @@ email: ctroupin@protonmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Data analysis & visualisation"
 keywords: "Data analysis, Oceanography, Visualisation"
-skills: "Oceanography, Numerical modelling, Data analysis & Training"
+skills: "Oceanography | Numerical modelling | Data analysis | Training"
 meta_author: PinkFish Team
 
 # Google webmaster tools
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 204891 #80B3FF
+  primary-rgb: "250,82,141" #"128,179,255"
+  secondary: fa528d #FD6E8A
+  secondary-dark: 6497f5 #A2122F
 
 # Footer settings
 footer:
