@@ -4,7 +4,11 @@
 
 1. Install `Jekyll` and `Bundler`: https://jekyllrb.com/docs/installation/ubuntu/
 2. Clone the current repository directory.
-3. Deploy the site by running:
+3. Install missing gems
+```bash
+bundle install
+```
+4. Deploy the site by running:
 ```bash
 bundle exec jekyll serve
 ```
